@@ -1,0 +1,5 @@
+google-cloud-dataflow
+six
+https://storage.googleapis.com/tensorflow/mac/tensorflow-0.8.0rc0-py2-none-any.whl
+google-api-python-client
+unidecode
